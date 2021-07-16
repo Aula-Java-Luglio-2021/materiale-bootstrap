@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+        
+.banner{
+    height:150px;
+    background-color: aqua;
+}     
+
+.user{
+    background-color: palegoldenrod;
+}
+
+.psw{
+    background-color: antiquewhite;
+}
